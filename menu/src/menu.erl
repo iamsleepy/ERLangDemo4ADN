@@ -65,8 +65,9 @@ checkout(Orderlist, Pid) ->
     MyOrders == [] ->
       0;
     true ->
-      MenuList = maps:to_list(Menu),
-      Recipe = [Dish, Price || {}]
+      Recipe = [{Order, maps:get(Order, Menu, 0)} || Order <- MyOrders],
+      Cost = lists:sum([Price || {Order, Price} <- Recipe]),
+      [Recipe, {total, Cost}]
   end.
 
 

@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c646136-9c31-4d69-991b-f3af60b970a7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/menu/menu.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/menu/src/menu.erl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menu/src/menu.erl" afterPath="$PROJECT_DIR$/menu/src/menu.erl" />
     </list>
     <ignored path="ERLangDemo4ADN.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,8 +40,8 @@
       <file leaf-file-name="menu.erl" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/menu/src/menu.erl">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.39746544">
-              <caret line="65" column="8" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.36635944">
+              <caret line="69" column="27" selection-start-line="69" selection-start-column="27" selection-end-line="69" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -525,8 +524,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/menu/src/menu.erl">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39746544">
-          <caret line="65" column="8" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.36635944">
+          <caret line="69" column="27" selection-start-line="69" selection-start-column="27" selection-end-line="69" selection-end-column="27" />
           <folding />
         </state>
       </provider>
